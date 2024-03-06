@@ -5,10 +5,10 @@ body {
 	background-color: lightblue;
 }
 footer {
-    background-color: #777;
-    color: #fff;
-    text-align: center;
-    padding: 1px 0;
+  background-color: #777;
+  color: #fff;
+  text-align: center;
+  padding: 1px 0;
 }
 header {
   background-color: #777;
@@ -84,13 +84,13 @@ section#macmiller {
 }
 section#pulpfiction {
 	color: white;
-  	text-shadow: 2px 2px 4px #000000;
+  text-shadow: 2px 2px 4px #000000;
 }
 section#lifeisbeautiful {
 	color: white;
-  	text-shadow: 2px 2px 4px #000000;
+  text-shadow: 2px 2px 4px #000000;
 }
 section#holdovers {
 	color: white;
-  	text-shadow: 2px 2px 4px #000000;
+  text-shadow: 2px 2px 4px #000000;
 }
