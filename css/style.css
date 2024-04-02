@@ -31,7 +31,7 @@ header {
   text-decoration: none;
 }
 ul, h1, .play-regular {
-  font-family: "Play", sans-serif;
+  font-family: "Play", Rockwell;
   font-weight: 400;
   font-style: normal;
 }
@@ -42,14 +42,14 @@ ul, h1, .play-regular {
 	text-decoration: underline;
 }
 h1, .play-bold {
-  font-family: "Play", sans-serif;
+  font-family: "Play", Rockwell;
   font-weight: 700;
   font-size: 2em;
   font-style: normal;
   text-align: center;
 }
 h2 {
-	font-family: sans-serif;
+	font-family: Rockwell;
 }
 li {
 	font-family: monospace;
