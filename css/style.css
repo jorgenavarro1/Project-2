@@ -9,6 +9,8 @@ footer {
   color: #fff;
   text-align: center;
   padding: 1px 0;
+  position: relative;
+  top: 100px;
 }
 header {
   background-color: #777;
@@ -63,13 +65,19 @@ img {
 section#ContactInfo {
 	font-style: italic;
 	text-align: center;
+  position: relative;
+  top: 40px;
 }
 section#education{
 	text-align: center;
 	list-style: none;
+  position: relative;
+  top: 40px;
 }
 section#awards {
 	text-align: center;
+  position: relative;
+  top: 40px;
 }
 section#strokes {
 	text-align: center;
