@@ -1,3 +1,9 @@
+body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-size: 15px;
+}
 iframe {
 	border: none;
 }
@@ -10,7 +16,7 @@ footer {
   text-align: center;
   padding: 1px 0;
   position: relative;
-  top: 100px;
+  top: 6.5em;
 }
 header {
   background-color: #777;
@@ -66,18 +72,18 @@ section#ContactInfo {
 	font-style: italic;
 	text-align: center;
   position: relative;
-  top: 40px;
+  top: 3em;
 }
 section#education{
 	text-align: center;
 	list-style: none;
   position: relative;
-  top: 40px;
+  top: 3em;
 }
 section#awards {
 	text-align: center;
   position: relative;
-  top: 40px;
+  top: 3em;
 }
 section#strokes {
 	text-align: center;
